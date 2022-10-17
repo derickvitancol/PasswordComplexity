@@ -4,7 +4,6 @@ import static org.junit.Assert.assertEquals;
 import com.passwordchecker.PasswordChecker;
 import org.junit.Test;
 public class PasswordComplexity {
-
     @Test
     public void Assert_PasswordStrong()
     {
